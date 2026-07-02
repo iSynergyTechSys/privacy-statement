@@ -191,15 +191,6 @@ Once these are set up, the app can provide a much more complete sprint operation
 
 ## Screenshots
 
-Place your screenshot files inside a `screenshots/` folder next to this Markdown file before uploading or publishing the documentation.
-
-Suggested file mapping:
-
-- `screenshots/main-overview.jpg`
-- `screenshots/team-workload-progress.jpg`
-- `screenshots/demo-retro-epic-progress.jpg`
-- `screenshots/task-dependencies.jpg`
-
 ### Main sprint selection and overview
 
 The main screen allows users to select a project, choose an active sprint, and apply the selection to generate sprint-specific analytics.
