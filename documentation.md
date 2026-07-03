@@ -235,4 +235,4 @@ To get the most value from Sprint Ops Center:
 
 ## Support
 
-For support, setup questions, or feedback, please contact the app support team through the Atlassian Marketplace listing or the support channel provided with the app.
+For support, setup assistance, feature requests, or feedback, please contact the Sprint Ops Center support team at developer@isynergytech.com
